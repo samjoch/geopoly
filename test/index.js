@@ -9,6 +9,12 @@ var Geopoly = require('../lib');
 
 var campus, square;
 
+describe('Constant', function() {
+  it('should get RADIUS', function() {
+    expect(Geopoly.RADIUS).to.be.eql(6378137);
+  });
+});
+
 describe('Geopoly', function() {
   before(function() {
     campus = new Geopoly(feature);

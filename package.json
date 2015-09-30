@@ -1,6 +1,6 @@
 {
   "name": "geopoly",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Polygon manipulation",
   "main": "lib/index.js",
   "devDependencies": {
