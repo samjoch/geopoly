@@ -1,0 +1,26 @@
+{
+  "name": "geopoly",
+  "version": "1.0.0",
+  "description": "Polygon manipulation",
+  "main": "lib/index.js",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "should": "^7.1.0",
+    "sinon": "^1.17.1",
+    "sinon-chai": "^2.8.0",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samjoch/geopoly.git"
+  },
+  "author": "Sam Joch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samjoch/geopoly/issues"
+  },
+  "homepage": "https://github.com/samjoch/geopoly#readme"
+}
